@@ -1,0 +1,70 @@
+*{
+    background-color:mistyrose;
+}
+body{
+    display: inline-block;
+    margin: 150px 0px 0px 450px;
+    
+}
+.title{
+    margin-bottom: 15px;
+    text-align:center;
+    width: 300px;
+    padding: 10px;
+    color:blueviolet;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 800;
+    border: solid rgb(97, 67, 146) 2px;
+    border-radius: 15px;
+    background-color: rgb(235, 213, 252);
+    }
+.cal{
+    
+    border: solid rgb(97, 67, 146) 2px;
+    border-radius: 20px;
+    width: 320px;
+    padding: 10px;
+    background-color: rgb(233, 216, 226);
+}
+.tab {
+    margin: 0px;
+    width: 320px;
+    height: 200px;
+    border: solid rgb(97, 67, 146) 2px;
+    border-radius: 15px;
+    background-color: rgb(204, 204, 204);
+    }
+#symbols{
+    padding: 5px 15px 5px 15px;
+}
+td{
+    background-color: rgb(203, 201, 204);
+    border-radius: 15px;
+}
+ input[type="button"]
+    {
+    background-color: rgb(232, 206, 250);
+    color:blueviolet;
+    border: solid rgb(97, 67, 146) 2px;
+    border-radius: 8px;
+    width:100%;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 18px;
+    margin: 0px;
+    }
+
+input[type="text"]
+    {
+    border: solid rgb(97, 67, 146) 2px;
+    padding: 5px;
+    color:blueviolet;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 18px;
+    background-color:white;
+    border-radius: 10px;
+    width:100%;
+    margin: 0px;
+    }
